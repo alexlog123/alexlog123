@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao do Alexlog123 😁
+## Bem-vindo(a) ao perfil do Alexlog123 😁
 
  <div>
    <a href="https://github.com/devemdobro">
