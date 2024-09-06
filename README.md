@@ -18,6 +18,7 @@
 
  
 <div> 
+  <a href="https://www.facebook.com/profile.php?id=100004045665065" target="_blank"><img src="https://img.shields.io/badge/Facebook-0025EE?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alexandreoliveira8577/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5521982373055"><img src="https://img.shields.io/badge/-Whatsapp-%15E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:alexandre199715@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
